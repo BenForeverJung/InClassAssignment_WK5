@@ -1,0 +1,28 @@
+C:\Users\Benju\Source\Repos\WCTC-Battle-2023\bin\Debug\net6.0\Class05.exe
+C:\Users\Benju\Source\Repos\WCTC-Battle-2023\bin\Debug\net6.0\Class05.deps.json
+C:\Users\Benju\Source\Repos\WCTC-Battle-2023\bin\Debug\net6.0\Class05.runtimeconfig.json
+C:\Users\Benju\Source\Repos\WCTC-Battle-2023\bin\Debug\net6.0\Class05.dll
+C:\Users\Benju\Source\Repos\WCTC-Battle-2023\bin\Debug\net6.0\Class05.pdb
+C:\Users\Benju\Source\Repos\WCTC-Battle-2023\obj\Debug\net6.0\Class05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benju\Source\Repos\WCTC-Battle-2023\obj\Debug\net6.0\Class05.AssemblyInfoInputs.cache
+C:\Users\Benju\Source\Repos\WCTC-Battle-2023\obj\Debug\net6.0\Class05.AssemblyInfo.cs
+C:\Users\Benju\Source\Repos\WCTC-Battle-2023\obj\Debug\net6.0\Class05.csproj.CoreCompileInputs.cache
+C:\Users\Benju\Source\Repos\WCTC-Battle-2023\obj\Debug\net6.0\Class05.dll
+C:\Users\Benju\Source\Repos\WCTC-Battle-2023\obj\Debug\net6.0\refint\Class05.dll
+C:\Users\Benju\Source\Repos\WCTC-Battle-2023\obj\Debug\net6.0\Class05.pdb
+C:\Users\Benju\Source\Repos\WCTC-Battle-2023\obj\Debug\net6.0\Class05.genruntimeconfig.cache
+C:\Users\Benju\Source\Repos\WCTC-Battle-2023\obj\Debug\net6.0\ref\Class05.dll
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\WCTC-Battle-2023\bin\Debug\net6.0\Class05.exe
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\WCTC-Battle-2023\bin\Debug\net6.0\Class05.deps.json
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\WCTC-Battle-2023\bin\Debug\net6.0\Class05.runtimeconfig.json
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\WCTC-Battle-2023\bin\Debug\net6.0\Class05.dll
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\WCTC-Battle-2023\bin\Debug\net6.0\Class05.pdb
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\WCTC-Battle-2023\obj\Debug\net6.0\Class05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\WCTC-Battle-2023\obj\Debug\net6.0\Class05.AssemblyInfoInputs.cache
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\WCTC-Battle-2023\obj\Debug\net6.0\Class05.AssemblyInfo.cs
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\WCTC-Battle-2023\obj\Debug\net6.0\Class05.csproj.CoreCompileInputs.cache
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\WCTC-Battle-2023\obj\Debug\net6.0\Class05.dll
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\WCTC-Battle-2023\obj\Debug\net6.0\refint\Class05.dll
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\WCTC-Battle-2023\obj\Debug\net6.0\Class05.pdb
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\WCTC-Battle-2023\obj\Debug\net6.0\Class05.genruntimeconfig.cache
+C:\Users\Benju\OneDrive\Documents\1-WCTC\DotNet DB\WCTC-Battle-2023\obj\Debug\net6.0\ref\Class05.dll
